@@ -1,0 +1,23 @@
+body{
+  background-color: green;
+}
+.container {
+  display: flex;
+  background-image: url(./image/toystore.jpg);
+  flex-direction: column;
+  width: 900px;
+  background-size: cover;
+  background-position: center;
+
+}
+.pic {
+  width: 400px;
+}
+.header{
+  text-align: center;
+  background-color: blue;
+  color: red;
+}
+nav{
+  display: flex;
+}
